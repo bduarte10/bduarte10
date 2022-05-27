@@ -43,8 +43,6 @@ Sou estudante do 3º semestre no curso de Análise e desenvolvimento de sistemas
 
 ## 📊 Github Status
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=bduarte10"><p>
-
 <p><img src="https://github-readme-stats.vercel.app/api?username=bduarte10&show_icons=true"><p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bduarte10&layout=compact"><p>
