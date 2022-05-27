@@ -32,14 +32,6 @@ Sou estudante do 3º semestre no curso de Análise e desenvolvimento de sistemas
 <a href="https://codepen.io/bduarte10"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=bduarte10">
-</p>
 
 ## 📊 Github Status
 
