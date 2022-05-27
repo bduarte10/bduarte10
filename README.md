@@ -3,7 +3,7 @@
 <img width="100%" src="https://i.ibb.co/LpkdztT/github-header-image-4.png" alt="my banner">
 
 
-Sou estudante do 3º semestre no curso de Análise e desenvolvimento de sistemas e atualmente estou me especializando em desenvolvimento front-end. Meu foco está nas tecnologias utilizadas em sistemas web como HTML5, CSS3, JavaScript Vanilla e React.
+I'm a student in the Software Analysis and Development course and I'm currently specializing in front-end development. My focus is on technologies used in web systems such as HTML5, CSS3, JavaScript, Vanilla and React.
 
 ## 💫 Liitle Bit More About Me
 <p>🌱 I'm currently learning React, Typescritp, Node</p>
