@@ -23,6 +23,8 @@ I'm a student in the Software Analysis and Development course and I'm currently 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
 </p>
 
+![snake gif](https://github.com/bduarte10/bduarte10/blob/output/github-contribution-grid-snake.svg)
+
 ## 👥 Connect With Me
 <p>
 <a href="https://linkedin.com/in/bduarte10"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
@@ -40,5 +42,5 @@ I'm a student in the Software Analysis and Development course and I'm currently 
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bduarte10"><p>
   
-![snake gif](https://github.com/bduarte10/bduarte10/blob/output/github-contribution-grid-snake.svg)
+
 
