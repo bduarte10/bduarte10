@@ -1,6 +1,8 @@
 
 <img width="100%" src="https://i.ibb.co/LpkdztT/github-header-image-4.png" alt="my banner">
 
+<p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=bduarte10&show_icons=true&theme=tokyonight"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bduarte10&theme=tokyonight&layout=compact"><p>
+
 
 I'm a student in the Software Analysis and Development course and I'm currently specializing in front-end development. My focus is on technologies used in web systems such as HTML5, CSS3, JavaScript, Vanilla and React.
 
@@ -34,13 +36,12 @@ I'm a student in the Software Analysis and Development course and I'm currently 
 </p>
 
 
-## 📊 Github Status
-
-<p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=bduarte10&show_icons=true&theme=tokyonight"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bduarte10&theme=tokyonight&layout=compact"><p>
 
 
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bduarte10"><p>
+
+
+
   
 
 
