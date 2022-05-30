@@ -1,4 +1,4 @@
-
+![Snake animation](https://github.com/bduarte10/bduarte10/blob/output/github-contribution-grid-snake.svg)
 
 <img width="100%" src="https://i.ibb.co/LpkdztT/github-header-image-4.png" alt="my banner">
 
