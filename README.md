@@ -1,12 +1,8 @@
 
-<img width="100%" src="https://i.ibb.co/LpkdztT/github-header-image-4.png" alt="my banner">
-
 <h1 > Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Bruno Duarte</h1>
 
-<p  ><img height="180em" src="https://github-readme-stats.vercel.app/api?username=bduarte10&show_icons=true&theme=tokyonight"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bduarte10&theme=tokyonight&layout=compact"><p>
+<p width="100%" ><img height="180em" src="https://github-readme-stats.vercel.app/api?username=bduarte10&show_icons=true&theme=tokyonight"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bduarte10&theme=tokyonight&layout=compact"><p>
 
-
-I'm a student in the Software Analysis and Development course and I'm currently specializing in front-end development. My focus is on technologies used in web systems such as HTML5, CSS3, JavaScript, Vanilla and React.
 
 ## 💫 Liitle Bit More About Me
 <p>🌱 I'm currently learning React, Typescritp, Node</p>
