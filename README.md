@@ -36,7 +36,7 @@ I'm a student in the Software Analysis and Development course and I'm currently 
 
 ## 📊 Github Status
 
-<p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=bduarte10&show_icons=true&theme=tokyonight"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bduarte10&theme=tokyonight"><p>
+<p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=bduarte10&show_icons=true&theme=tokyonight"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bduarte10&theme=tokyonight&layout=compact"><p>
 
 
 
