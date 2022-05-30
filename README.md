@@ -20,7 +20,6 @@
 <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </p>
 
-![snake gif](https://github.com/bduarte10/bduarte10/blob/output/github-contribution-grid-snake.svg)
 
 ## 👥 Connect With Me
 <p>
@@ -29,6 +28,8 @@
 <a href="https://www.instagram.com/bduarte.10"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://codepen.io/bduarte10"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
+
+![snake gif](https://github.com/bduarte10/bduarte10/blob/output/github-contribution-grid-snake.svg)
 
 
 
