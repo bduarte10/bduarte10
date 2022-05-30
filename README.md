@@ -1,4 +1,3 @@
-![Snake animation](https://github.com/bduarte10/bduarte10/blob/output/github-contribution-grid-snake.svg)
 
 <img width="100%" src="https://i.ibb.co/LpkdztT/github-header-image-4.png" alt="my banner">
 
@@ -40,3 +39,6 @@ I'm a student in the Software Analysis and Development course and I'm currently 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bduarte10&layout=compact"><p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bduarte10"><p>
+  
+![Snake animation](https://github.com/bduarte10/bduarte10/blob/output/github-contribution-grid-snake.svg)
+
