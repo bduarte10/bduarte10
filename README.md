@@ -5,7 +5,7 @@
 
 ## 💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vite,tailwind,sass,styledcomponents,prisma)](https://skillicons.dev)
 
 
 ## 👥 Connect With Me
