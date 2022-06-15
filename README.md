@@ -15,6 +15,8 @@
 <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,vite)](https://skillicons.dev)
+
 
 ## 👥 Connect With Me
 <p>
