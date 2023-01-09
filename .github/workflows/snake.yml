@@ -25,7 +25,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
 
-      - run: git status
+    
 
       # Para as atualizações.
       - name: Push changes
