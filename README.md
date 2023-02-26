@@ -16,23 +16,3 @@
 <a href="https://codepen.io/bduarte10"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[github-snake-dark.svg](https://github.com/bduarte10/bduarte10/blob/output/github-contribution-grid-snake.svg)" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/bduarte10/bduarte10/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
-
-
-
-
-
-
-
-
-
-  
-
-
