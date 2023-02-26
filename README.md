@@ -25,7 +25,6 @@
 </picture>
 
 
-![snake gif](https://github.com/bduarte10/bduarte10/blob/output/github-contribution-grid-snake.svg)
 
 
 
