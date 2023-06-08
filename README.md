@@ -1,7 +1,9 @@
 
 <h1 > Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I am Bruno Duarte</h1>
 
-<p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=bduarte10&show_icons=true&theme=tokyonight"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bduarte10&theme=tokyonight&layout=compact"><p>
+<p>I am a front-end developer with strong experience in technologies such as React, Typescript, Material UI, Tailwind, Styled-Components, CSS Modules, Chakra UI, and Next.js. I have a mindset focused on excellence, always seeking constant improvement through resources like courses, books, documentation, and online communities where I also share knowledge.
+
+Furthermore, I am expanding my skill set by studying backend development with the C# language to work as a full-stack developer.</p>
 
 ## 💻 Skills
 
