@@ -7,7 +7,7 @@ Furthermore, I am expanding my skill set by studying backend development with th
 
 ## 💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,vite,tailwind,cs,prisma,graphql,apollo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,materialui,nextjs,js,html,css,vite,tailwind,cs,prisma,graphql,apollo)](https://skillicons.dev)
 
 
 ## 👥 Connect With Me
