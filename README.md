@@ -1,7 +1,7 @@
 
 <h1 > Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I am Bruno Duarte</h1>
 
-<p>I am a front-end developer with strong experience in technologies such as React, NextJs, Typescript, Material UI, Tailwind, Styled-Components and others. I have a mindset focused on excellence, always seeking constant improvement through resources like courses, books, documentation, and online communities where I also share knowledge.
+<p>I am a front-end developer with strong experience in technologies such as React.js, Next.js, Typescript, Material UI, Tailwind, Styled-Components and others. I have a mindset focused on excellence, always seeking constant improvement through resources like courses, books, documentation, and online communities where I also share knowledge.
 </p>
 
 ## 💻 Skills
