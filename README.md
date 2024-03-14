@@ -18,7 +18,7 @@
             srcset="https://github-readme-stats.vercel.app/api?username=bduarte10&count_private=true&show_icons=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img  align="start"  src="https://github-readme-stats.vercel.app/api?username=bduarte10&count_private=true&show_icons=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=bduarte10&count_private=true&show_icons=true" />
     </picture>
     <picture>
         <source
