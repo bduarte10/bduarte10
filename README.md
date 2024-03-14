@@ -10,15 +10,16 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=bduarte10&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=bduarte10&count_private=true&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=bduarte10&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=bduarte10&count_private=true&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=bduarte10&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bduarte10&count_private=true&show_icons=true" />
 </picture>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bduarte10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👥 Connect With Me
 <p>
