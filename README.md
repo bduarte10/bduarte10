@@ -8,6 +8,17 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,materialui,nextjs,js,html,css,vite,tailwind,cs,prisma,graphql,apollo)](https://skillicons.dev)
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=bduarte10&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=bduarte10&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bduarte10&show_icons=true" />
+</picture>
 
 ## 👥 Connect With Me
 <p>
