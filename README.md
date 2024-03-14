@@ -8,7 +8,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,materialui,nextjs,js,html,css,vite,tailwind,cs,prisma,graphql,apollo)](https://skillicons.dev)
 
-<div style="display: flex; justify-content: space-between; align-items: start">
+<div style="display: flex; justify-content: space-between; ">
     <picture>
         <source
             srcset="https://github-readme-stats.vercel.app/api?username=bduarte10&count_private=true&show_icons=true&theme=dark"
@@ -29,7 +29,7 @@
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bduarte10&layout=compact"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bduarte10&layout=compact" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bduarte10&layout=compact" />
     </picture>
 </div>
 
