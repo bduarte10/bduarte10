@@ -8,20 +8,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,materialui,nextjs,js,html,css,vite,tailwind,cs,prisma,graphql,apollo)](https://skillicons.dev)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=bduarte10&count_private=true&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=bduarte10&count_private=true&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=bduarte10&count_private=true&show_icons=true" />
-</picture>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bduarte10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=bduarte10&count_private=true&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bduarte10&layout=compact" />
+</div>
 ## 👥 Connect With Me
 <p>
 <a href="https://linkedin.com/in/bduarte10"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
