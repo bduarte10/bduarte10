@@ -11,14 +11,14 @@
 <div style="display: flex; justify-content: space-between;">
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api?username=bduarte10&count_private=true&show_icons=true&theme=dark"
+            srcset="https://github-readme-stats.vercel.app/api?username=bduarte10&count_private=true&show_icons=true&&layout=compacttheme=dark"
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://github-readme-stats.vercel.app/api?username=bduarte10&count_private=true&show_icons=true"
+            srcset="https://github-readme-stats.vercel.app/api?username=bduarte10&count_private=true&layout=compact&show_icons=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api?username=bduarte10&count_private=true&show_icons=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=bduarte10&count_private=true&layout=compact&show_icons=true" />
     </picture>
     <picture>
         <source
