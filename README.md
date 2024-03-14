@@ -29,7 +29,7 @@
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bduarte10&layout=compact"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bduarte10&layout=compact" />
+        <img style="align-self: start;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bduarte10&layout=compact" />
     </picture>
 </div>
 
