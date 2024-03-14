@@ -1,25 +1,20 @@
 
-<h1 > Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I am Bruno Duarte</h1>
+<h1 > Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Bruno Duarte</h1>
 
-<p>I am a front-end developer with strong experience in technologies such as React.js, Next.js, Typescript, Material UI, Tailwind, Styled-Components and others. I have a mindset focused on excellence, always seeking constant improvement through resources like courses, books, documentation, and online communities where I also share knowledge.
+<p>Graduated in Systems Analysis and Development from Unopar (Brazil), I have a solid experience in software development, focusing on web development using ReactJS, NextJS, Typescript, JavaScript, and mobile development with React Native.
+
+I am self-taught and technology enthusiast, always seeking to deepen my knowledge in front-end, software architecture, and coding best practices. I have proven skills in React.JS, React Native, Figma, Jira, among other tools. Currently, I am specializing in NodeJS to also work as a backend or fullstack developer.
+
+Throughout my career, I have developed web products ensuring quality and performance, integrated front-end with back-end, and prioritized the continuous evolution of products in pursuit of the best value for the business. I have skills in Javascript, Typescript, HTML, CSS, solid experience with ReactJS, test automation, version control with GIT, and familiarity with agile development methodologies.
+
+I am an autonomous person, open to collaboration, and always willing to grow as a developer. I am passionate about problem-solving and finding viable solutions, maintaining good interpersonal relationships, and constantly seeking innovation in projects.
 </p>
 
 ## 💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,materialui,nextjs,js,html,css,vite,tailwind,cs,prisma,graphql,apollo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,materialui,nodejs,prisma,nextjs,js,vite,cs)](https://skillicons.dev)
 
-<div style="display: flex; justify-content: space-between;  ">
-    <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api?username=bduarte10&count_private=true&show_icons=true&theme=dark"
-            media="(prefers-color-scheme: dark)"
-        />
-        <source
-            srcset="https://github-readme-stats.vercel.app/api?username=bduarte10&count_private=true&show_icons=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api?username=bduarte10&count_private=true&show_icons=true" />
-    </picture>
+<div style="display: flex;">
     <picture>
         <source
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bduarte10&layout=compact&theme=dark"
@@ -29,7 +24,7 @@
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bduarte10&layout=compact"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img style="align-self: start;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bduarte10&layout=compact" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bduarte10&layout=compact" />
     </picture>
 </div>
 
