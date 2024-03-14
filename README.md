@@ -8,7 +8,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,materialui,nextjs,js,html,css,vite,tailwind,cs,prisma,graphql,apollo)](https://skillicons.dev)
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; align-items:start">
     <picture>
         <source
             srcset="https://github-readme-stats.vercel.app/api?username=bduarte10&count_private=true&show_icons=true&theme=dark"
