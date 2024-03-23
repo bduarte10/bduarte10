@@ -14,6 +14,16 @@ I am an autonomous person, open to collaboration, and always willing to grow as 
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,materialui,nodejs,prisma,nextjs,js,vite,cs)](https://skillicons.dev)
 
+
+## 👥 Connect With Me
+<p>
+<a href="https://linkedin.com/in/bduarte10"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://twitter.com/bduarte_10"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.instagram.com/bduarte.10"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://codepen.io/bduarte10"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+</p>
+
+
 <div style="display: flex;">
     <picture>
         <source
@@ -27,12 +37,3 @@ I am an autonomous person, open to collaboration, and always willing to grow as 
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bduarte10&layout=compact" />
     </picture>
 </div>
-
-## 👥 Connect With Me
-<p>
-<a href="https://linkedin.com/in/bduarte10"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://twitter.com/bduarte_10"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://www.instagram.com/bduarte.10"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://codepen.io/bduarte10"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-</p>
-
