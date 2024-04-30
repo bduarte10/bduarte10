@@ -3,7 +3,7 @@
 
 <p>Graduated in Systems Analysis and Development from Unopar (Brazil), I have a solid experience in software development, focusing on web development using ReactJS, NextJS, Typescript, JavaScript, and mobile development with React Native.
 
-I am self-taught and technology enthusiast, always seeking to deepen my knowledge in front-end, software architecture, and coding best practices. I have proven skills in React.JS, React Native, Figma, Jira, among other tools. Currently, I am specializing in NodeJS to also work as a backend or fullstack developer.
+I am self-taught and technology enthusiast, always seeking to deepen my knowledge in front-end, software architecture, and coding best practices. I have proven skills in React.JS, Angular, React Native, Figma, Jira, among other tools. Currently, I am specializing in NodeJS to also work as a backend or fullstack developer.
 
 Throughout my career, I have developed web products ensuring quality and performance, integrated front-end with back-end, and prioritized the continuous evolution of products in pursuit of the best value for the business. I have skills in Javascript, Typescript, HTML, CSS, solid experience with ReactJS, test automation, version control with GIT, and familiarity with agile development methodologies.
 
