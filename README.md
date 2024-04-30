@@ -12,7 +12,7 @@ I am an autonomous person, open to collaboration, and always willing to grow as 
 
 ## 💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,sass,tailwind,materialui,nodejs,prisma,nextjs,js,vite,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,ts,sass,tailwind,materialui,nodejs,prisma,nextjs,js,vite,cs)](https://skillicons.dev)
 
 
 ## 👥 Connect With Me
