@@ -17,7 +17,7 @@
 
 ## 💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,angular,ts,sass,tailwind,materialui,nodejs,prisma,nextjs,js,vite,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,sass,tailwind,materialui,nodejs,prisma,nextjs,js,vite,cs)](https://skillicons.dev)
 
 
 
