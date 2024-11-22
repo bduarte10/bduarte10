@@ -1,23 +1,28 @@
 
 <h1 > Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Bruno Duarte</h1>
+<br/>
+      <p>Graduated in <strong>Systems Analysis and Development</strong> from Unopar (Brazil), I am a <strong>fullstack developer</strong> with over <strong>3 years of experience</strong>. My expertise lies in web development using <strong>Node.js</strong>, <strong>NestJS</strong>, and <strong>ReactJS</strong>, as well as <strong>Next.js 15</strong> on the front-end. Additionally, I have solid experience with <strong>TypeScript</strong>, <strong>JavaScript</strong>, and mobile development with <strong>React Native</strong>.</p>
+      <p>I am self-taught and a technology enthusiast, always seeking to deepen my knowledge in <strong>software architecture</strong>, <strong>coding best practices</strong>, and new technologies that add value to projects.</p>
+      <p>
+        <strong>My Skills:</strong><br />
+        <ul>
+          <li><strong>Backend:</strong> Node.js, NestJS, REST and GraphQL APIs.</li>
+          <li><strong>Frontend:</strong> ReactJS, Next.js 15, HTML, CSS, Automated Testing.</li>
+          <li><strong>Mobile:</strong> React Native.</li>
+          <li><strong>Tools:</strong> Git, Figma, Jira.</li>
+          <li><strong>Methodologies:</strong> Scrum, Kanban, Agile development.</li>
+          <li><strong>Other:</strong> Front-end and back-end integration, test automation, and performance optimization.</li>
+        </ul>
+      </p>
+      <p>Throughout my career, I have developed high-quality web products, focusing on <strong>performance</strong> and <strong>scalability</strong>. I have built and integrated robust APIs, designed dynamic interfaces, and collaborated with cross-functional teams to align business goals with the best technical solutions.</p>
+      <p>I am an autonomous and collaborative professional, passionate about solving complex problems with practical and effective solutions. I constantly strive to innovate and add value to the projects I contribute to while maintaining <strong>strong interpersonal relationships</strong> and fostering a culture of continuous learning.</p>
+      <br/><br/>
+    
 
-<table  style="width:100%; border-collapse: collapse;">
-  <tr>
-    <td >
-      <p>Graduated in Systems Analysis and Development from Unopar (Brazil), I have a solid experience in software development, focusing on web development using ReactJS, NextJS, Typescript, JavaScript, and mobile development with React Native.</p>
-      <p>I am self-taught and technology enthusiast, always seeking to deepen my knowledge in front-end, software architecture, and coding best practices. I have proven skills in React.JS, React Native, Figma, Jira, among other tools. Currently, I am specializing in NodeJS to also work as a backend or fullstack developer.</p>
-      <p>Throughout my career, I have developed web products ensuring quality and performance, integrated front-end with back-end, and prioritized the continuous evolution of products in pursuit of the best value for the business. I have skills in Javascript, Typescript, HTML, CSS, solid experience with ReactJS, test automation, version control with GIT, and familiarity with agile development methodologies.</p>
-      <p>I am an autonomous person, open to collaboration, and always willing to grow as a developer. I am passionate about problem-solving and finding viable solutions, maintaining good interpersonal relationships, and constantly seeking innovation in projects.</p>
-    </td>
-      <td  style="border: none;">
-      <a href="https://app.daily.dev/duarte"><img src="https://api.daily.dev/devcards/v2/4VzTj4c5t.png?r=nfa" width=""  style="width:1700px;" alt="Bruno Bilego Duarte's Dev Card"/></a>
-    </td>
-  </tr>
-</table>
 
 ## 💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,sass,tailwind,materialui,nodejs,prisma,nextjs,js,vite,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,prisma,ts,tailwind,materialui,sass,js,vite,cs)](https://skillicons.dev)
 
 
 
