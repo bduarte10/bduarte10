@@ -1,7 +1,7 @@
 
 <h1 > Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Bruno Duarte</h1>
 <br/>
-      <p>Graduated in <strong>Systems Analysis and Development</strong> from Unopar (Brazil), I am a <strong>fullstack developer</strong> with over <strong>3 years of experience</strong>. My expertise lies in web development using <strong>Node.js</strong>, <strong>NestJS</strong>, and <strong>ReactJS</strong>, as well as <strong>Next.js 15</strong> on the front-end. Additionally, I have solid experience with <strong>TypeScript</strong>, <strong>JavaScript</strong>, and mobile development with <strong>React Native</strong>.</p>
+      <p>Graduated in <strong>Systems Analysis and Development</strong> from Unopar (Brazil), I am a <strong>fullstack developer</strong> with over <strong>4 years of experience</strong>. My expertise lies in web development using <strong>Node.js</strong>, <strong>NestJS</strong>, and <strong>ReactJS</strong>, as well as <strong>Next.js 15</strong> on the front-end. Additionally, I have solid experience with <strong>TypeScript</strong>, <strong>JavaScript</strong>, and mobile development with <strong>React Native</strong>.</p>
       <p>I am self-taught and a technology enthusiast, always seeking to deepen my knowledge in <strong>software architecture</strong>, <strong>coding best practices</strong>, and new technologies that add value to projects.</p>
       <p>
         <strong>My Skills:</strong><br />
