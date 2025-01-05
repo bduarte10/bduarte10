@@ -6,7 +6,7 @@
       <p>
         <strong>My Skills:</strong><br />
         <ul>
-          <li><strong>Backend:</strong> Node.js, NestJS, REST and GraphQL APIs.</li>
+          <li><strong>Backend:</strong> Java, Node.js, NestJS, REST and GraphQL APIs.</li>
           <li><strong>Frontend:</strong> ReactJS, Next.js 15, HTML, CSS, Automated Testing.</li>
           <li><strong>Mobile:</strong> React Native.</li>
           <li><strong>Tools:</strong> Git, Figma, Jira.</li>
