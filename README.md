@@ -22,7 +22,7 @@
 
 ## 💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,prisma,ts,tailwind,materialui,sass,js,vite,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,java,nodejs,nestjs,prisma,ts,tailwind,materialui,sass,js,vite,cs)](https://skillicons.dev)
 
 
 
