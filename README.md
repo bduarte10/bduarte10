@@ -1,12 +1,12 @@
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Bruno Duarte</h1>
-<h3 align="center">Senior Software Engineer</h3>
+<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Bruno Duarte</h1>
+<h3 align="left">Senior Software Engineer</h3>
 
-<p align="center">
+<p align="left">
   Senior Software Engineer with over 5 years of experience and a strategic background in Systems Analysis. I bridge the gap between complex technical requirements and intuitive user experiences, leveraging Node.js and Java (Spring Boot) to build reliable, enterprise-grade full-stack systems.
 </p>
 
-<p align="center">
+<p align="left">
   I design architectures that are scalable, maintainable, and cloud-ready.
 </p>
 
