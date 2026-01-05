@@ -2,23 +2,32 @@
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Bruno Duarte</h1>
 
 <p align="left">
-  Senior Software Engineer with over 5 years of experience and a strategic background in Systems Analysis. I bridge the gap between complex technical requirements and intuitive user experiences, leveraging Node.js and Java (Spring Boot) to build reliable, enterprise-grade full-stack systems.
+ Software Engineer with 5+ years of experience, currently focused on Java backend development with Spring Boot, building scalable, maintainable, and cloud-ready systems on AWS.
+
+I bring a strong frontend and full-stack background, which allows me to design backend solutions that align well with real product needs, clean architectures, and solid user experiences. This background helps me bridge technical requirements, system design, and delivery with clarity and pragmatism.
 </p>
 
-<p align="left">
-  I design architectures that are scalable, maintainable, and cloud-ready.
-</p>
 
 ---
 
-### 🚀 Key Impacts & Responsibilities
 
-* **Component Architecture:** Leading the creation of reusable component libraries using React, TypeScript, and Tailwind CSS/Material UI, significantly boosting team development speed and code consistency.
-* **Backend & Cloud Integration:** Developing scalable APIs and optimizing infrastructure using Node.js and AWS. Proficient in Java (Spring Boot) concepts for building robust microservices and typed backend architectures.
-* **Performance & Reliability:** Implementing robust unit testing strategies with Vitest and Testing Library, ensuring system reliability in production environments.
+What I work with:
 
-> I am driven by creating collaborative solutions and technically sound architectures that deliver positive impact for organizations.
+Backend & Architecture<br/>
+• Developing RESTful APIs and microservices using Java and Spring Boot<br/>
+• Applying clean architecture principles, layered design, and typed backend models<br/>
+• Experience with Node.js for backend services and integrations<br/>
+• Cloud-ready systems deployed and optimized on AWS<br/><br/>
 
+Frontend Background (Strong Foundation)<br/>
+• 5+ years building scalable frontends with React, TypeScript, and Next.js<br/>
+• Leading component architecture and reusable design systems<br/>
+• Strong understanding of performance, maintainability, and DX<br/><br/>
+
+Quality & Reliability<br/>
+• Writing unit and integration tests to ensure production reliability<br/>
+• Experience with Vitest, Testing Library, and backend testing concepts<br/>
+• Focus on performance, stability, and long-term maintainability<br/>
 <br/>
 
 ## 🛠 Tech Stack
